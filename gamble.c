@@ -1,5 +1,5 @@
 /*created by Pavan S. 
-github.com\mexseh*/
+github.com/mexseh*/
 
 #include<stdio.h>
 #include<stdlib.h>
