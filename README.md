@@ -42,9 +42,3 @@ A fun, interactive console-based Casino game built in the C programming language
 - If wrong → Lose your bet.
 
 ---
-
-## 🚀 How to Run
-
-1. **Compile the Code**
-   ```bash
-   gcc casino.c -o casino
