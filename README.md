@@ -42,3 +42,16 @@ A fun, interactive console-based Casino game built in the C programming language
 - If wrong → Lose your bet.
 
 ---
+##⚡What I Learned
+
+Working on the Console Casino project in C allowed me to deepen my understanding of:
+
+- **Modular Code Structure:** Organized the program into multiple functions, each handling a specific casino game and balance management, improving code clarity and maintainability.
+- **Random Number Generation:** Used `rand()` and `srand(time(NULL))` to simulate randomness in games like Roulette, Slots, Blackjack, and Coin Flip.
+- **Pointers:** Managed the player’s balance via pointer passing to update the balance across multiple functions.
+- **Game Logic Implementation:** Translated casino game rules into functioning C code with appropriate win/lose conditions.
+- **User Input Validation:** Implemented checks to handle invalid bets, choices, and inputs gracefully.
+- **Console Interaction:** Created an interactive text-based menu-driven interface with clear prompts and game rules.
+- **Debugging & Testing:** Refined logic through iterative debugging and testing to ensure fair gameplay and balance accuracy.
+
+This project strengthened my core C programming skills and gave me practical experience creating interactive console applications with multiple game modules.
