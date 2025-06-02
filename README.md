@@ -42,7 +42,7 @@ A fun, interactive console-based Casino game built in the C programming language
 - If wrong → Lose your bet.
 
 ---
-##⚡What I Learned
+## ⚡What I Learned
 
 Working on the Console Casino project in C allowed me to deepen my understanding of:
 
